@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/noto-app/static/css/main.8c03d879.chunk.css",
+    "main.js": "/noto-app/static/js/main.56194556.chunk.js",
+    "main.js.map": "/noto-app/static/js/main.56194556.chunk.js.map",
+    "runtime-main.js": "/noto-app/static/js/runtime-main.d1b7fcf0.js",
+    "runtime-main.js.map": "/noto-app/static/js/runtime-main.d1b7fcf0.js.map",
+    "static/css/2.1f4083f7.chunk.css": "/noto-app/static/css/2.1f4083f7.chunk.css",
+    "static/js/2.1464977f.chunk.js": "/noto-app/static/js/2.1464977f.chunk.js",
+    "static/js/2.1464977f.chunk.js.map": "/noto-app/static/js/2.1464977f.chunk.js.map",
+    "index.html": "/noto-app/index.html",
+    "static/css/2.1f4083f7.chunk.css.map": "/noto-app/static/css/2.1f4083f7.chunk.css.map",
+    "static/css/main.8c03d879.chunk.css.map": "/noto-app/static/css/main.8c03d879.chunk.css.map",
+    "static/js/2.1464977f.chunk.js.LICENSE.txt": "/noto-app/static/js/2.1464977f.chunk.js.LICENSE.txt",
+    "static/media/bootstrap-icons.css": "/noto-app/static/media/bootstrap-icons.cc252f2c.woff",
+    "static/media/companylogo.72226910.png": "/noto-app/static/media/companylogo.72226910.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d1b7fcf0.js",
+    "static/css/2.1f4083f7.chunk.css",
+    "static/js/2.1464977f.chunk.js",
+    "static/css/main.8c03d879.chunk.css",
+    "static/js/main.56194556.chunk.js"
+  ]
+}
