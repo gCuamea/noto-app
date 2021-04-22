@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.8c03d879.chunk.css",
-    "main.js": "/static/js/main.5be132d3.chunk.js",
-    "main.js.map": "/static/js/main.5be132d3.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.bdb3c010.js",
-    "runtime-main.js.map": "/static/js/runtime-main.bdb3c010.js.map",
-    "static/css/2.f074d38a.chunk.css": "/static/css/2.f074d38a.chunk.css",
-    "static/js/2.0858cd23.chunk.js": "/static/js/2.0858cd23.chunk.js",
-    "static/js/2.0858cd23.chunk.js.map": "/static/js/2.0858cd23.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/2.f074d38a.chunk.css.map": "/static/css/2.f074d38a.chunk.css.map",
-    "static/css/main.8c03d879.chunk.css.map": "/static/css/main.8c03d879.chunk.css.map",
-    "static/js/2.0858cd23.chunk.js.LICENSE.txt": "/static/js/2.0858cd23.chunk.js.LICENSE.txt",
-    "static/media/bootstrap-icons.css": "/static/media/bootstrap-icons.cc252f2c.woff",
-    "static/media/companylogo.72226910.png": "/static/media/companylogo.72226910.png"
+    "main.css": "/noto-app/static/css/main.8c03d879.chunk.css",
+    "main.js": "/noto-app/static/js/main.d8fd122a.chunk.js",
+    "main.js.map": "/noto-app/static/js/main.d8fd122a.chunk.js.map",
+    "runtime-main.js": "/noto-app/static/js/runtime-main.d1b7fcf0.js",
+    "runtime-main.js.map": "/noto-app/static/js/runtime-main.d1b7fcf0.js.map",
+    "static/css/2.1f4083f7.chunk.css": "/noto-app/static/css/2.1f4083f7.chunk.css",
+    "static/js/2.1464977f.chunk.js": "/noto-app/static/js/2.1464977f.chunk.js",
+    "static/js/2.1464977f.chunk.js.map": "/noto-app/static/js/2.1464977f.chunk.js.map",
+    "index.html": "/noto-app/index.html",
+    "static/css/2.1f4083f7.chunk.css.map": "/noto-app/static/css/2.1f4083f7.chunk.css.map",
+    "static/css/main.8c03d879.chunk.css.map": "/noto-app/static/css/main.8c03d879.chunk.css.map",
+    "static/js/2.1464977f.chunk.js.LICENSE.txt": "/noto-app/static/js/2.1464977f.chunk.js.LICENSE.txt",
+    "static/media/bootstrap-icons.css": "/noto-app/static/media/bootstrap-icons.cc252f2c.woff",
+    "static/media/companylogo.72226910.png": "/noto-app/static/media/companylogo.72226910.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.bdb3c010.js",
-    "static/css/2.f074d38a.chunk.css",
-    "static/js/2.0858cd23.chunk.js",
+    "static/js/runtime-main.d1b7fcf0.js",
+    "static/css/2.1f4083f7.chunk.css",
+    "static/js/2.1464977f.chunk.js",
     "static/css/main.8c03d879.chunk.css",
-    "static/js/main.5be132d3.chunk.js"
+    "static/js/main.d8fd122a.chunk.js"
   ]
 }
